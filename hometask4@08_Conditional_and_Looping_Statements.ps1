@@ -3,13 +3,19 @@
 
 <# Script contents start here #>
 $inputNum = $args[0]
-$i = 1
+for ($i = 1; $i -le 10; $i++) {
+    Write-Host $inputNum "x" $i "=" ($inputNum*$i)
+    }
+<# Script contents end here #>
 
+<# the same but using DO-UNTIL
+$i = 1
 do {
     Write-Host $inputNum "x" $i "=" ($inputNum*$i)
     $i++
 } until ($i -eq 11)
-<# Script contents end here #>
+#>
+
 
 <# Example 1
 & .\script4.ps1 6
