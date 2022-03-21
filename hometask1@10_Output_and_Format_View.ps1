@@ -2,7 +2,15 @@
 # 1. Write a script to list directory that contain files. Output is the same with Get-ChildItem cmdlet. Print file size in megabytes (Mb).
 
 $inputPath = $args[0]
-Get-ChildItem -Path $inputPath | Format-Table -Property @{Name="Mode";Expression={($_.mode)};Width=14},@{Name="LastWriteTime";Expression={($_.LastWriteTime)};Width=20},@{Name="Length(MB)";Expression={"{0:N2}" -f ($_.length/1MB)};Width=14;Alignment="Right"},@{Name="Name";Expression={($_.name)};Width=50}
+
+Get-ChildItem -Path $inputPath | Format-Table -Property  `
+@{Name="Mode";Expression={($_.mode)};Width=14},  `
+@{Name="LastWriteTime";Expression={($_.LastWriteTime)};Width=20},  `
+@{Name="Length(MB)";Expression={"{0:N2}" -f ($_.length/1MB)};Width=14;Alignment="Right"},  `
+@{Name="Name";Expression={($_.name)};Width=50}
+
+#Get-ChildItem -Path $inputPath | Format-Table -Property @{Name="Mode";Expression={($_.mode)};Width=14},@{Name="LastWriteTime";Expression={($_.LastWriteTime)};Width=20},@{Name="Length(MB)";Expression={"{0:N2}" -f ($_.length/1MB)};Width=14;Alignment="Right"},@{Name="Name";Expression={($_.name)};Width=50}
+
 
 # > & .\DirectorySize.ps1 "C:\Windows\ShellExperiences"
 <# Output
