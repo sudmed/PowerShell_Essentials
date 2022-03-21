@@ -6,21 +6,26 @@ Romeo and Juliet belongs to a tradition of tragic romances stretching back to an
 Shakespeare's use of his poetic dramatic structure (especially effects such as switching between comedy and tragedy to heighten tension, his expansion of minor characters, and his use of sub-plots to embellish the story) has been praised as an early sign of his dramatic skill. The play ascribes different poetic forms to different characters, sometimes changing the form as the character develops. Romeo, for example, grows more adept at the sonnet over the course of the play.
 Romeo and Juliet has been adapted numerous times for stage, film, musical, and opera venues. During the English Restoration, it was revived and heavily revised by William Davenant. David Garrick's 18th-century version also modified several scenes, removing material then considered indecent, and Georg Benda's Romeo und Julie omitted much of the action and used a happy ending. Performances in the 19th century, including Charlotte Cushman's, restored the original text and focused on greater realism. John Gielgud's 1935 version kept very close to Shakespeare's text and used Elizabethan costumes and staging to enhance the drama. In the 20th and into the 21st century, the play has been adapted in versions as diverse as George Cukor's 1936 film Romeo and Juliet, Franco Zeffirelli's 1968 version Romeo and Juliet, and Baz Luhrmann's 1996 MTV-inspired Romeo + Juliet."
 
-$words = $text -split "'s" -split '[\s+,\.:;\?\!\t()-]' | Where { $_.length -gt 0 }
-$mostCommon = (($words | group | sort Count)[-1..-10])
-$mostCommon.Name
+$words = $text -split "'s" -split '[\s+,\.:;\?\!\t()-]' | Where-Object { $_.length -gt 0 }
+$mostCommon = (($words | Group-Object | Sort-Object Count)[-1..-10])
+Write-Host $mostCommon.Name
+$mostCommon
 
+> & .\hometask2@09_Pipelines.ps1
 <# Output
+
+the and of in to Romeo his Juliet as Shakespeare
+
 Count Name                      Group
 ----- ----                      -----
-   23 the                       {the, The, The, the...}
-   22 and                       {and, and, and, and...}
-   13 of                        {of, of, of, of...}
-   10 in                        {in, in, in, in...}
-    9 to                        {to, to, to, to...}
-    8 Romeo                     {Romeo, Romeo, Romeo, Romeo...}
-    7 as                        {as, as, as, as...}
-    7 Juliet                    {Juliet, Juliet, Juliet, Juliet...}
-    7 his                       {his, his, his, his...}
-    6 Shakespeare               {Shakespeare, Shakespeare, Shakespeare, Shakespeare...}
+   23 the                       {the, The, The, the…}
+   22 and                       {and, and, and, and…}
+   13 of                        {of, of, of, of…}
+   10 in                        {in, in, in, in…}
+    9 to                        {to, to, to, to…}
+    8 Romeo                     {Romeo, Romeo, Romeo, Romeo…}
+    7 his                       {his, his, his, his…}
+    7 Juliet                    {Juliet, Juliet, Juliet, Juliet…}
+    7 as                        {as, as, as, as…}
+    6 Shakespeare               {Shakespeare, Shakespeare, Shakespeare, Shakespeare…}
 #>
