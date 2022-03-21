@@ -11,7 +11,7 @@ $mostCommon = (($words | Group-Object | Sort-Object Count)[-1..-10])
 Write-Host $mostCommon.Name
 $mostCommon
 
-> & .\hometask2@09_Pipelines.ps1
+#> & .\hometask2@09_Pipelines.ps1
 <# Output
 
 the and of in to Romeo his Juliet as Shakespeare
