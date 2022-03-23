@@ -1,6 +1,8 @@
 # PowerShell Essentials Output and Format View Homework
 # 1. Write a script to list directory that contain files. Output is the same with Get-ChildItem cmdlet. Print file size in megabytes (Mb).
 
+
+<# Code starts here #>
 $inputPath = $args[0]
 
 Get-ChildItem -Path $inputPath | Format-Table -Property  `
@@ -9,11 +11,15 @@ Get-ChildItem -Path $inputPath | Format-Table -Property  `
 @{Name="Length(MB)";Expression={"{0:N2}" -f ($_.length/1MB)};Width=14;Alignment="Right"},  `
 @{Name="Name";Expression={($_.name)};Width=50}
 
+# Alternative one-liner
 #Get-ChildItem -Path $inputPath | Format-Table -Property @{Name="Mode";Expression={($_.mode)};Width=14},@{Name="LastWriteTime";Expression={($_.LastWriteTime)};Width=20},@{Name="Length(MB)";Expression={"{0:N2}" -f ($_.length/1MB)};Width=14;Alignment="Right"},@{Name="Name";Expression={($_.name)};Width=50}
+<# Code ends here #>
 
 
-# > & .\DirectorySize.ps1 "C:\Windows\ShellExperiences"
-<# Output
+<# Executing the script
+> & .\DirectorySize.ps1 "C:\Windows\ShellExperiences"
+# Output
+
 Mode           LastWriteTime            Length(MB) Name
 ----           -------------            ---------- ----
 la---          26.01.2022 16:11:22            1,55 JumpViewUI.dll
@@ -29,10 +35,11 @@ la---          07.12.2019 12:08:16            0,48 TileControl.dll
 la---          26.10.2021 22:15:36            2,76 WindowsInternal.People.PeoplePicker.dll
 la---          07.12.2019 12:08:41            2,23 WindowsInternal.People.Relevance.dll
 la---          07.12.2019 12:08:41            0,53 WindowsInternal.People.Relevance.QueryClient.dll
-#>
 
-# > Get-ChildItem "C:\Windows\ShellExperiences"
-<# Output
+
+> Get-ChildItem "C:\Windows\ShellExperiences"
+# Output
+
 Directory: C:\Windows\ShellExperiences
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
