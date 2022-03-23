@@ -1,3 +1,6 @@
+# PowerShell Essentials Object Properties and Methods Homework
+# 3. Write a PowerShell class to reverse a string word by word.
+
 class ReverseLetters {
 	[string]
     $string
