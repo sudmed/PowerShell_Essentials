@@ -1,3 +1,7 @@
+# PowerShell Essentials String Manipulations Homework
+# 2. Write a script that converts dash/underscore delimited words into camel and pascal casing.
+
+<# Code starts here #>
 if ($inputString -match "-")
 <# checking for dashes in the inputString #>
 {
@@ -10,3 +14,16 @@ else {
 <# if no dashes so underscores #>
 $inputString -replace "_", $null
 }
+<# Code ends here #>
+
+
+<# Example 1
+$inputString = "the-stealth-warrior"
+# Result
+"theStealthWarrior"
+
+# Example 2
+$inputString = "The_Stealth_Warrior"
+# Result
+"TheStealthWarrior"
+#>
