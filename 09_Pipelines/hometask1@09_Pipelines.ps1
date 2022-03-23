@@ -1,6 +1,8 @@
 # PowerShell Essentials Pipelines Homework
 # 1. Write a script that it makes association with running services and process in Windows. Put result in hash table. Use pipelines as match as possible.
 
+
+<# Code starts here #>
 $servicesProcesses = @{}
 Get-CimInstance -ClassName Win32_Service | Foreach-Object {
 $_ | Add-Member -MemberType NoteProperty -Name Processes -Value (Get-Process -Id $_.ProcessId) -Passthru | Select-Object Name, Processes } | foreach-object {
@@ -11,3 +13,4 @@ $_ | Add-Member -MemberType NoteProperty -Name Processes -Value (Get-Process -Id
     }
 	$servicesProcesses += @{$services.name = $services.Values.ProcessName}
 }
+<# Code ends here #>
