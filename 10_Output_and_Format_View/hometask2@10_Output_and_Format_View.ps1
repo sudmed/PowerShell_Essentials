@@ -1,7 +1,8 @@
 # PowerShell Essentials Output and Format View Homework
 # 2. Write a script to sort a list of elements using the bubble sort algorithm. Make output in console for each sort steps and could be controlled by Verbose parameter (user can choose if he would like to see output).
 
-<# Code starts #>
+
+<# Code starts here #>
 [CmdletBinding()]
 param ($array)
 
@@ -32,16 +33,19 @@ Write-Verbose " `
 Sorted numbers are:  `
 "
 Write-Host $array
+<# Code ends here #>
 
-<# Code ends #>
 
-
+<# Executing the script
 & .\hometask2@10_Output_and_Format_View.ps1
 # Output
+
 -21 -8 -4 -1 0 1 5 7 11 99
+
 
 & .\hometask2@10_Output_and_Format_View.ps1 -Verbose
 # Output
+
 VERBOSE: 10 numbers are given:
 99 -1 7 0 5 1 -8 11 -21 -4
 
@@ -182,3 +186,4 @@ VERBOSE:
 Sorted numbers are:
 
 -21 -8 -4 -1 0 1 5 7 11 99
+#>
