@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">1280</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 13:54:58</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">90660864</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">1612</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:29</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">295514112</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">1756</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:03</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">93569024</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">1956</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:29</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">333897728</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">2064</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:21</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">9003008</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">2540</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">48537600</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">2580</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 21:32:31</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">13991936</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">2728</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">16232448</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">3952</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">603799552</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">4072</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 17:38:32</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">74448896</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">5176</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 16:54:26</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">45797376</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">5692</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 17:31:54</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">53579776</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">6436</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:54</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">51359744</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">6756</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:32</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">472199168</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">6968</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:58</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">53575680</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">8624</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:51:59</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">15708160</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">9196</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 20:16:32</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">10014720</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">9640</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:42</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">236417024</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">9796</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 17:32:01</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">70230016</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">10400</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:57</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">57835520</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">11248</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.03.2022 17:54:25</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">140472320</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">11572</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:44</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">92151808</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">12852</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.03.2022 17:54:20</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">147558400</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">12916</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:51:59</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">1450573824</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">13596</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:29</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">95342592</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">13676</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">29503488</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">13764</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 0:41:42</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">27107328</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">13820</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">29519872</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">14408</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:57</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">68530176</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">14504</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">32714752</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">14560</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:53</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">70553600</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">14564</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:51:56</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">446128128</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">14856</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">27852800</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">14904</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:51:59</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">52555776</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15248</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:51:56</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">8114176</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15368</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">18223104</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15460</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 0:22:32</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">96866304</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15516</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">23089152</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15588</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">20938752</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15660</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">40656896</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15732</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">16715776</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15804</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">16535552</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15864</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.03.2022 19:25:01</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">151642112</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">15908</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">50077696</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">16052</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">27299840</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">16128</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">22716416</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">16136</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:00</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">15958016</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">16632</Property>
+    <Property Name="StartTime" Type="System.DateTime">21.03.2022 18:43:15</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">283332608</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">16896</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:41</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">69644288</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">16952</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.03.2022 17:54:02</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">58032128</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">17164</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:52</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">37330944</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">17716</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 11:52:19</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">341143552</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">17900</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 15:55:01</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">86622208</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">18688</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 21:40:04</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">32305152</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">18904</Property>
+    <Property Name="StartTime" Type="System.DateTime">21.03.2022 18:09:01</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">22077440</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">19400</Property>
+    <Property Name="StartTime" Type="System.DateTime">21.03.2022 18:55:15</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">89894912</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">19660</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 0:45:36</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">27836416</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">19764</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 15:28:58</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">66924544</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">19924</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 17:29:10</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">62050304</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">20136</Property>
+    <Property Name="StartTime" Type="System.DateTime">22.03.2022 20:05:45</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">174501888</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">20324</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 21:40:17</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">66433024</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">20520</Property>
+    <Property Name="StartTime" Type="System.DateTime">21.03.2022 19:55:26</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">292151296</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">20936</Property>
+    <Property Name="StartTime" Type="System.DateTime">21.03.2022 17:24:05</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">34840576</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">21512</Property>
+    <Property Name="StartTime" Type="System.DateTime">20.03.2022 21:40:19</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">106733568</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">21844</Property>
+    <Property Name="StartTime" Type="System.DateTime">22.03.2022 20:05:05</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">70979584</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">22596</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.03.2022 17:54:14</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">77025280</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">chrome</Property>
+    <Property Name="Id" Type="System.Int32">23344</Property>
+    <Property Name="StartTime" Type="System.DateTime">24.03.2022 20:46:08</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">125124608</Property>
+  </Object>
+</Objects>
