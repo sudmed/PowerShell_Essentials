@@ -10,25 +10,24 @@ function Write-ColoredMessage {
 	param(
 		[Parameter(Mandatory=$true, Position=0)]
 		[string]$Text,
-        [Parameter(Mandatory=$false, Position=1)]
+        	[Parameter(Mandatory=$false, Position=1)]
 		[switch]$Black,
-        [switch]$DarkBlue,
-        [switch]$DarkGreen,
-        [switch]$DarkCyan,
-        [switch]$DarkRed,
-        [switch]$DarkMagenta,
-        [switch]$DarkYellow,
-        [switch]$Gray,
-        [switch]$DarkGray,
-        [switch]$Blue,
-        [switch]$Green,
-        [switch]$Cyan,
-        [switch]$Red,
-        [switch]$Magenta,
-        [switch]$Yellow,
-        [switch]$White
-		)
-		
+        	[switch]$DarkBlue,
+        	[switch]$DarkGreen,
+        	[switch]$DarkCyan,
+        	[switch]$DarkRed,
+        	[switch]$DarkMagenta,
+        	[switch]$DarkYellow,
+        	[switch]$Gray,
+        	[switch]$DarkGray,
+        	[switch]$Blue,
+        	[switch]$Green,
+        	[switch]$Cyan,
+        	[switch]$Red,
+        	[switch]$Magenta,
+        	[switch]$Yellow,
+        	[switch]$White
+	)	
     if ($Black.IsPresent) { $color = "Black"}
     elseif ($DarkBlue.IsPresent) {$color = "DarkBlue"}
     elseif ($DarkGreen.IsPresent) {$color = "DarkGreen"}
@@ -45,7 +44,6 @@ function Write-ColoredMessage {
     elseif ($Magenta.IsPresent) {$color = "Magenta"}
     elseif ($Yellow.IsPresent) {$color = "Yellow"}
     else {$color = "White"}
-
 	Write-Host $Text -foregroundcolor $color
 }
 <# Code ends here #>
